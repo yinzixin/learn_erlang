@@ -14,3 +14,7 @@ rpc(Pid,Q)->
     receive
         {Pid,Reply}->Reply
     end.
+
+
+
+a
